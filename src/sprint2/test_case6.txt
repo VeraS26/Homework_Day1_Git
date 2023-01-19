@@ -1,0 +1,6 @@
+Monika created test case 6
+
+added more info to the log in function 
+
+
+steps to log out
